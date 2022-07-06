@@ -1,5 +1,7 @@
 # My References
 
-John Smith
+* John Smith
 
-Adam Jensen
+* Adam Jensen
+
+* octocat 1 😈
